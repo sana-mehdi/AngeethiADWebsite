@@ -271,17 +271,17 @@ const FullMenu = () => {
         {
           name: "Chicken Biryani",
           description: "Chicken steamed in layers of aromatic rice.",
-          price: "$7.49"
+          price: "$8.49"
         },
         {
           name: "Veal Biryani",
           description: "Veal steamed in layers of aromatic rice.",
-          price: "$10.99"
+          price: "$11.99"
         },
         {
           name: "Mutton Biryani",
           description: "Mutton pieces steamed in layers of aromatic rice.",
-          price: "$11.99"
+          price: "$12.99"
         },
         {
           name: "Veg Biryani",
